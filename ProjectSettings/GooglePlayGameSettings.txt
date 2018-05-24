@@ -1,0 +1,10 @@
+lastUpgrade=00938a
+proj.pluginVersion=0.9.38a
+proj.AppId=867655641766
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3cstring+name%3d%22app_id%22%3e867655641766%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22package_name%22%3ecom.JuicyLeague.FairElections%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_test%22%3eCgkIptW5oqAZEAIQAQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_test1%22%3eCgkIptW5oqAZEAIQAg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_test2%22%3eCgkIptW5oqAZEAIQBA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_test3%22%3eCgkIptW5oqAZEAIQBQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_test4%22%3eCgkIptW5oqAZEAIQBg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22leaderboard_defenders_of_the_white_house%22%3eCgkIptW5oqAZEAIQAA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22leaderboard_local_defenders%22%3eCgkIptW5oqAZEAIQBw%3c%2fstring%3e%0d%0a%3c%2fresources%3e%0d%0a
+and.ClientId=
+proj.requireGPlus=false
+android.SetupDone=true
+and.BundleId=com.JuicyLeague.FairElections
